@@ -446,11 +446,10 @@ Class "Body Armours" "Quivers" "Helmets" "Boots" "Gloves" "Shields" "Foci" "One 
 # Show
 # Class "Body Armours" "Quivers" "Helmets" "Boots" "Gloves" "Shields" "Foci" "One Hand Maces" "Two Hand Maces" "Quarterstaves" "Bows" "Crossbows"
 
-# Hide
-# Quality = 0
-# AreaLevel > 70
-# Rarity <= Magic
-# Class "Flasks"
+Hide
+Quality = 0
+Rarity <= Magic
+Class "Flasks"
 
 # Hide
 # Rarity Normal 
